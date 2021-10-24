@@ -7,6 +7,10 @@ layout: resume
 
 > 데이터 플랫폼 개발자입니다. parser 및 replication 모듈에 관심이 많아 끊임없이 배우고 있습니다.
 
+## 연락처
++82 10 4055 8705  
+dongwook.chan@gmail.com
+
 ## 학력
 
 ### **서강대학교** <span>2013.02&ndash;2020.02</span>
