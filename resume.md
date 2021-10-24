@@ -27,7 +27,7 @@ AACSB 인증을 받은 경영학부를 상위 10%의 성적으로 졸업하여 �
 
 ## 교외활동
 
-### **[창업동아리 BLACK BOX](https://www.facebook.com/iblackbox/)**
+### **[창업동아리 BLACK BOX](https://www.facebook.com/iblackbox/)** <span>2013.03&ndash;2015.01</span>
 교육부장 및 부회장 역임  
     - 스타트업 업계 강사 초빙  
     - 제 3회 서강대학교 창업경진대회 우수상  
@@ -101,6 +101,8 @@ AACSB 인증을 받은 경영학부를 상위 10%의 성적으로 졸업하여 �
 ### **[OCP 11](https://www.credly.com/badges/498fcbba-977d-4edb-a75f-8cf89feac25f/linked_in_profile)**
 일련번호: 254156974DBA11G
 <br>
-## 기타
-### **[백준 온라인 저지](https://www.acmicpc.net/)**
-[Gold I 등급](https://solved.ac/profile/dongwook)
+## 각종 링크
+### **[백준 온라인 저지: Gold I 등급](https://solved.ac/profile/dongwook)**
+### **[GitHub](https://github.com/dongwook-chan)**
+### **[LinkedIn](https://www.linkedin.com/in/dongwook-chang-3ab763147/)**
+### **[기술 블로그](https://dongwook-chan.github.io/)**
