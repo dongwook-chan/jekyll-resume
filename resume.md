@@ -70,7 +70,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
 **각종 유틸리티 학습 및 공유** <font size="2">C, C++</font>  
 <br>
 ### **[카카오](https://www.kakaocorp.com/page/)** <span>2020.07&ndash;현재</span>
-실시간 CDC(복제) 솔루션 **LOMIO**, 대용량 파일 적재 솔루션 **DA-VINCI** 개발 및 운영   
+실시간 CDC (데이터 복제) 솔루션 **LOMIO**, 대용량 파일 적재 솔루션 **DA-VINCI** 개발 및 운영   
 <br>
 **[LOMIO] LOMIO 운영 / 서비스별 커스터마이징** <font size="2">Python, MySQL, Kafka</font>  
     - 카카오 4개 법인, 13개 서비스에 LOMIO 적용  
