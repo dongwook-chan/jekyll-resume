@@ -32,21 +32,21 @@ AACSB 인증 경영대학을 상위 10%의 성적으로 졸업한 평생 회원
 ## 교외활동
 
 ### **[창업동아리 BLACK BOX](https://www.facebook.com/iblackbox/)** <span>2013.03&ndash;2015.01</span>
-교육부장 및 부회장 역임    
+**교육부장 및 부회장 역임**    
     - 제 3회 서강대학교 창업경진대회 우수상  
     - 학생 창업을 위한 마케팅 강의 / 초청 강사 초빙  
     - 대구경북창업아카데미 커리큘럼 설계 및 해커톤 진행  
 <br>
 ## 경력
 ### **[대한민국 공군](https://rokaf.airforce.mil.kr/airforce/398/subview.do)** <span>2015.02&ndash;2017.02</span>  
-**어학병**  
+**어학병 복무**  
     - 한미공동탄약관리반 배치: 미군 통역 및 기술도서 번역  
     - 한미연합훈련 UFG 파견: Computer Assisted eXercise 자료 번역 및 통역  
     - 세계군인체육대회 파견: 선수단 통역 및 매니지먼트  
     - F35전력화 TF 파견: 록히드 마틴사의 정보체계 매뉴얼 번역  
 <br>
 ### **[Alda Linguo](https://www.crunchbase.com/organization/aldalinguo)** <span>2019.12&ndash;2020.02</span>
-**영미권 사용자를 위한 한국어 학습 데이터 수집**  
+**영미권 사용자를 위한 한국어 학습 데이터 수집 담당**  
     - base64로 암호화된 웹 검색 결과를 복호화하여 크롤링  
     - json 형식으로 수집한 데이터를 xlsx로 변환하여 리포팅  
 <br>
