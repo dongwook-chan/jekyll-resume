@@ -99,6 +99,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
 <br>
 **[DA-VINCI] 개발 및 운영** <font size="2">Python, Flask, JavaScript, MySQL, PostgreSQL</font>  
 전사 대용량 파일 적재 솔루션 (file to RDBMS)  
+    - 인증 모듈 및 로깅으로 컴플라이언스 이슈 해결  
     - csv, xlsx 파일 업로드를 위한 web interface 구현 (SPA)  
     - 업로드 속도 향상을 위해 멀티스레드/멀티프로세스 업로드/적재  
     - 적재 최적화를 위한 RDBMS 시스템 변수 설정  
