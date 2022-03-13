@@ -96,7 +96,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
     - DB와의 결합도를 낮추기 위한 리팩토링  
     - PostgreSQL 지원을 위한 개발 / MongoDB 및 Hadoop 지원 검토 중  
 <br>
-**[DA-VINCI] 개발 및 운영** <font size="2">Python, Flask, JavaScript, MySQL, PostgreSQL</font>  
+**[DA-VINCI] 개발 및 운영** <font size="2">Python, Flask, JavaScript, jQuery, MySQL, PostgreSQL</font>  
 전사 대용량 파일 적재 솔루션 (file to RDBMS)  
     - 개발 배경: 인증 모듈 사용 및 작업 로깅으로 컴플라이언스 이슈 해결  
     - csv, xlsx 파일 업로드를 위한 web interface 구현 (SPA)  
