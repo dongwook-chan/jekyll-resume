@@ -73,6 +73,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
 실시간 CDC (데이터 복제) 솔루션 **LOMIO**, 대용량 파일 적재 솔루션 **DA-VINCI** 개발 및 운영   
 <br>
 **[LOMIO] LOMIO 운영 / 서비스별 커스터마이징** <font size="2">Python, MySQL, Kafka</font>  
+전사 실시간 CDC(데이터 복제) 솔루션  
     - 카카오 4개 법인, 20여 개 서비스에 LOMIO 적용  
     - 카카오커머스 BI의 NiFi->LOMIO 전환 전담  
     - 카카오커머스 주문 API 및 ERP의 LOMIO 적용 전담 ('22 04월 서비스 투입 예정)  
@@ -80,14 +81,12 @@ RDBMS Tibero를 설계, 개발 및 유지보수
     - 서비스별 라이브러리 커스터마이징을 위한 패치 관리 전담  
 <br>
 **[LOMIO] LOMIO 개발** <font size="2">Python, MySQL, kafka</font>  
-전사 실시간 CDC(데이터 복제) 솔루션  
     - 무중단/무손실/무중복 복제를 위한 DB 연결/재연결 기능 개발  
     - thruput 개선을 위한 최적화  
     - 도커 전환  
     - 테스트 환경 구축 및 unit test 작성 중  
 <br>
 **[LOMIO] 라이브러리 개발** <font size="2">Python, MySQL</font>  
-전사 실시간 CDC(데이터 복제) 솔루션  
     - MySQL 소스코드 분석 및 binlog event 디버깅 통해 저수준 버그 해결  
     - python-mysql-replication의 replication protocol 미준수 항목 교정  
     - 타임존 인식, 데이터 소싱 프로파일링, 복제 세션 및 복제 쿼리 최적화를 위한 라이브러리 개발  
