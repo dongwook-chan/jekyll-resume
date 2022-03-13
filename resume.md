@@ -88,7 +88,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
 <br>
 **[LOMIO] 라이브러리 개발** <font size="2">Python, MySQL</font>  
 전사 실시간 CDC(데이터 복제) 솔루션  
-    - MySQL 소스코드 분석 및 python-mysql-replication 디버깅 통해 저수준 버그 해결  
+    - MySQL 소스코드 분석 및 binlog event 디버깅 통해 저수준 버그 해결  
     - python-mysql-replication의 replication protocol 미준수 항목 교정  
     - 타임존 인식, 데이터 소싱 프로파일링, 복제 세션 및 복제 쿼리 최적화를 위한 라이브러리 개발  
 <br>
