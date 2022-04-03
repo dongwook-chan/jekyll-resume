@@ -132,7 +132,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
 <br>
 ## 온라인 저지
 ### **[백준 온라인 저지](https://www.acmicpc.net/)**
-**[Gold I 등급](https://solved.ac/profile/dongwook)**
+**[Platinum V 등급](https://solved.ac/profile/dongwook)**
 <br>
 ## 각종 링크
 ### **[GitHub](https://github.com/dongwook-chan)**
