@@ -21,7 +21,7 @@ dongwook.chan@gmail.com
 ## 수상
 
 ### **Dean's List**
-경영학부 성적 우수자로 선정
+경영학부 성적 우수자
 
 ### **인본장학금**
 비전이 촉망되는 경영학부 학생 1명에게 격년으로 지급되는 전액 장학금
@@ -67,7 +67,7 @@ RDBMS Tibero를 설계, 개발 및 유지보수
     - 사이트별 커스터마이징을 위한 패치 생성  
     - 신규 패치 생성 및 기존 패치 merge/split  
 <br>
-**각종 유틸리티 학습 및 공유** <font size="2">C, C++</font>  
+**각종 유틸리티 사용법 문서화 및 공유** <font size="2">C, C++</font>  
 <br>
 ### **[카카오](https://www.kakaocorp.com/page/)** <span>2020.07&ndash;현재</span>
 실시간 CDC (데이터 복제) 솔루션 **LOMIO**, 대용량 파일 적재 솔루션 **DA-VINCI** 개발 및 운영   
@@ -113,11 +113,11 @@ RDBMS Tibero를 설계, 개발 및 유지보수
     - 최신 protocol 반영하여 코드 갱신  
     - 커뮤니티 서포트: 질의응답, 요청 기능 추가  
     - 기여 순위 6위  
-
+<br>
 ### **[kafka-python](https://github.com/dpkp/kafka-python)** <span>2021.02</span>
 **Kafka의 Python client**  
     - Kafka producer config의 잘못된 서술 교정  
-
+<br>
 ### **[mysql-server](https://github.com/mysql/mysql-server)** <span>2021.09&ndash;현재</span>
 **오픈소스 RDBMS**  
     - 미갱신된 system variable list 갱신  
