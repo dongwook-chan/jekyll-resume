@@ -18,7 +18,6 @@ LinkedIn: <https://www.linkedin.com/in/dongwook-chang-3ab763147>
 B.B.A. Business Administration  
 B.Eng. in Computer Science and Engineering  
 GPA: 4.0/4.5 (cum laude)
-
 ## Honors
 ### **Dean's List**
 Awarded to top 50 student in Sogang business school.
@@ -27,7 +26,7 @@ Awarded to top 50 student in Sogang business school.
 Full scholarship awarded biannually to 1 student who is exceptionally promising and has excellent academic performance 
 
 ### **[Beta Gamma Sigma](https://www.betagammasigma.org/about/what-is-bgs)**
-Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergraduate students in a top 5% of business programs accredited by [AACSB](https://www.betagammasigma.org/mainsitedev/about/affiliations/about-affiliations-aacsb?utm_source=Landing%20Page&utm_medium=Link&utm_campaign=BGS%20Branding&utm_content=AACSB)
+Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergraduate students in a top 5% of business program accredited by [AACSB](https://www.betagammasigma.org/mainsitedev/about/affiliations/about-affiliations-aacsb?utm_source=Landing%20Page&utm_medium=Link&utm_campaign=BGS%20Branding&utm_content=AACSB)
 <br>
 ## Extracurricular Activities
 ### **[Startup club Black Box](https://www.facebook.com/iblackbox/)** <span>2013.03&ndash;2015.01</span>
