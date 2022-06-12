@@ -61,8 +61,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Created/merged/split patch to customize to fit consumer's needs  
 <br>
 ### **[Kakao](https://www.kakaocorp.com/page/?lang=en)** <span>2020.07&ndash;2022.06</span>
-**Software Engineer** for database replication(LOMIO)  
-and database importation(DA-VINCI, MIMEO)  
+**Software Engineer** for database replication(LOMIO) and database importation(DA-VINCI, MIMEO)  
 <br>
 **[LOMIO] Developed LOMIO, real-time CDC solution** <font size="2">Python, MySQL, Kafka</font>  
     - Improved auto-reconnect feature in case of failure    
