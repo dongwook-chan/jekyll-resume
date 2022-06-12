@@ -17,7 +17,7 @@ LinkedIn: <https://www.linkedin.com/in/dongwook-chang-3ab763147>
 
 B.B.A. Business Administration  
 B.Eng. in Computer Science and Engineering  
-**GPA:** 4.0/4.5 (cum laude)
+GPA: 4.0/4.5 (cum laude)
 
 ## Honors
 ### **Dean's List**
