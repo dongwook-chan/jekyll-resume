@@ -81,12 +81,12 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Decouple from MySQL client library to flexibly support other source RDBMSs  
     - Developed to support postgresql as source (design for MongoDB and Hadoop is in progress)  
 <br>
-**[DA-VINCI] Developed DA-VINCI, large-file-to-RDBMS importation tool** <font size="2">Python, Flask, JavaScript, jQuery, MySQL, PostgreSQL</font>  
+**[DA-VINCI] Developed large-file-to-RDBMS importation tool**<font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
     - Developed SPA Web interface for file input, preview, column mapping etc.    
     - Utilized multithreading/multiprocessing to boost upload performance   
     - Set system/table-level attributes to optimize load performance    
 <br>
-**[MIMEO] Developed MIMEO, dump-file-to-kudu importation tool** <font size="2">Python, MySQL, Kudu</font>  
+**[MIMEO] Developed dump-file-to-kudu importation tool** <font size="2">Python, MySQL, Kudu</font>  
     - Dump on memory instead of disk to minimize disk IO cost  
     - Developed conversion from MySQL data types to Python and Kudu data types    
     - Adopted pyspark to utilize distributed processing on large dump files (>=100GB)  
