@@ -6,10 +6,10 @@ layout: resume
 # Dongwook Chang
 
 Phone: +82 10 4055 8705  
-Email: dongwook.chan@gmail.com  
-GitHub: https://github.com/dongwook-chan/  
-Website: https://dongwook-chan.github.io/  
-LinkedIn: https://www.linkedin.com/in/dongwook-chang-3ab763147/  
+Email: <dongwook.chan@gmail.com>  
+GitHub: <https://github.com/dongwook-chan>  
+Website: <https://dongwook-chan.github.io>  
+LinkedIn: <https://www.linkedin.com/in/dongwook-chang-3ab763147>  
 
 ## Education
 
@@ -34,7 +34,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 **Vice president**    
     - 3rd place in annual startup competition at Sogang univ.    
     - Gave lectures on marketing, invited speakers to motivate members    
-    - Designed startup curriculum for undergraduate students and volunteered in mid-semester hackathon  
+    - Designed startup curriculum for undergraduate students and volunteered at mid-semester hackathon  
 <br>
 ## Work Experience
 ### **[ROKAF](https://rokaf.airforce.mil.kr/airforce/398/subview.do)** <span>2015.02&ndash;2017.02</span>  
@@ -49,9 +49,9 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 **Researcher** developing/designing parser/psm of Tibero, enterprise RDBMS  
 <br>
 **[Tibero8] Implemented parser for `INSERT INTO SELECT`** <font size="2">C++, Flex & Bison</font>  
-    - Analyzed syntax for `INSERT INTO SELECT` and added parser rules and codes.  
+    - Analyzed syntax for `INSERT INTO SELECT` and added parser rules and codes  
 <br>
-**[Tibero6] Parsed `ORACLE JOIN(+)` predicates with multiple(>=3) tables specified** <font size="2">C</font>  
+**[Tibero6] Parsed `ORACLE JOIN(+)` predicates with multiple(>=3) tables** <font size="2">C</font>  
     - Redesigned data structure to hold multiple table references    
     - Constructed graphs to represent relationship between table references  
     - Raised semantic error for joins with any cycle  
@@ -71,9 +71,9 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Maintained patch files  
 <br>
 **[LOMIO] MySQL library development** <font size="2">Python, MySQL</font>  
-    - Analyzed mysql-server source code and debugged event packet to resolve event parsing error    
+    - Analyzed mysql-server source code and debugged event packet to fix event parsing error   
     - Customized library for timezone awareness, data type conversion  
-    - Added profiling for event sourcing and set session variables to minimize effect on the source MySQL    
+    - Added profiling for event sourcing and set session variables to minimize source overhead    
 <br>
 **[LOMIO] Refactored & switched to Go** <font size="2">Go, Python, MySQL, kafka</font>  
     - Switch from temporal cohesion of customization logic to functional cohesion to minimize maintenance cost  
