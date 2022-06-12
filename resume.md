@@ -34,7 +34,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 **Vice president**    
     - 3rd place in annual startup competition at Sogang univ.    
     - Gave lectures on marketing, invited speakers to motivate members    
-    - Designed startup curriculum for undergraduate students and volunteered at mid-semester hackathon  
+    - Designed startup curriculum and volunteered at mid-semester hackathon  
 <br>
 ## Work Experience
 ### **[ROKAF](https://rokaf.airforce.mil.kr/airforce/398/subview.do)** <span>2015.02&ndash;2017.02</span>  
