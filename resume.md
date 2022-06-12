@@ -72,11 +72,11 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 <br>
 **[LOMIO] MySQL library development** <font size="2">Python, MySQL</font>  
     - Analyzed MySQL source code and debugged event packet to fix event parsing error   
-    - Customized library for timezone awareness, data type conversion  
+    - Modified library for timezone awareness, data type conversion  
     - Added profiling and set session variables to minimize source overhead    
 <br>
 **[LOMIO] Refactored & switched to Go** <font size="2">Go, Python, MySQL, kafka</font>  
-    - Switch from temporal cohesion of customization logic to functional cohesion to minimize maintenance cost  
+    - Improved functional cohesion for efficient maintenance  
     - Unified multiple repos to minimize code update cost    
     - Decouple from MySQL client library to flexibly support other source RDBMSs  
     - Support postgresql as source (design for MongoDB and Hadoop is in progress)  
