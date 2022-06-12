@@ -61,7 +61,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Created/merged/split patch to customize to fit consumer's needs  
 <br>
 ### **[Kakao](https://www.kakaocorp.com/page/?lang=en)** <span>2020.07&ndash;2022.06</span>
-**Software Engineer** for database replication(LOMIO) and database importation(DA-VINCI, MIMEO)  
+**Software Engineer** for database replication(LOMIO) and database importation(DAVINCI, MIMEO)  
 <br>
 **[LOMIO] Developed LOMIO, real-time CDC solution** <font size="2">Python, MySQL, Kafka</font>  
     - Improved auto-reconnect feature in case of failure    
@@ -71,7 +71,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Maintained patch files  
 <br>
 **[LOMIO] MySQL library development** <font size="2">Python, MySQL</font>  
-    - Analyzed mysql-server source code and debugged event packet to fix event parsing error   
+    - Analyzed MySQL source code and debugged event packet to fix event parsing error   
     - Customized library for timezone awareness, data type conversion  
     - Added profiling and set session variables to minimize source overhead    
 <br>
@@ -81,7 +81,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Decouple from MySQL client library to flexibly support other source RDBMSs  
     - Support postgresql as source (design for MongoDB and Hadoop is in progress)  
 <br>
-**[DA-VINCI] Developed large-file-to-RDBMS importation tool**<br><font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
+**[DAVINCI] Developed large-file-to-RDBMS importation tool**<br><font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
     - Developed SPA Web interface for file input, preview, column mapping etc.    
     - Utilized multithreading/multiprocessing to boost upload performance   
     - Set system/table-level attributes to optimize load performance    
