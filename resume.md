@@ -94,7 +94,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 ### **Kakao** <span>2022.06&ndash;</span>
 **Back-end developer** for street view & indoor visual localization  
 <br>
-## Contribution to Open Source
+## Open Source Contribution
 
 ### **[python-mysql-replication](https://github.com/noplay/python-mysql-replication)** <span>2021.02&ndash;</span>
 **Python implementation of MySQL replication protocol**  
