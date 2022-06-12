@@ -74,15 +74,15 @@ and database importation(DA-VINCI, MIMEO)
 **[LOMIO] MySQL library development** <font size="2">Python, MySQL</font>  
     - Analyzed mysql-server source code and debugged event packet to fix event parsing error   
     - Customized library for timezone awareness, data type conversion  
-    - Added profiling for event sourcing and set session variables to minimize source overhead    
+    - Added profiling and set session variables to minimize source overhead    
 <br>
 **[LOMIO] Refactored & switched to Go** <font size="2">Go, Python, MySQL, kafka</font>  
     - Switch from temporal cohesion of customization logic to functional cohesion to minimize maintenance cost  
     - Unified multiple repos to minimize code update cost    
     - Decouple from MySQL client library to flexibly support other source RDBMSs  
-    - Developed to support postgresql as source (design for MongoDB and Hadoop is in progress)  
+    - Support postgresql as source (design for MongoDB and Hadoop is in progress)  
 <br>
-**[DA-VINCI] Developed large-file-to-RDBMS importation tool**<font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
+**[DA-VINCI] Developed large-file-to-RDBMS importation tool**<br><font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
     - Developed SPA Web interface for file input, preview, column mapping etc.    
     - Utilized multithreading/multiprocessing to boost upload performance   
     - Set system/table-level attributes to optimize load performance    
