@@ -91,7 +91,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Adopted pyspark to utilize distributed processing on large dump files (>=100GB)  
 <br>
 ### **Kakao** <span>2022.06&ndash;</span>
-**Back-end developer** for street view & indoor visual localization  
+**Software Engineer** for real-time indoor localization with vSLAM 
 <br>
 ## Open Source Contribution
 
