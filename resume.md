@@ -101,6 +101,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Updated code to comply with latest protocol  
     - Community support  
     - Adding requested features  
+    - Top 6 active contributor
 <br>
 ### **[kafka-python](https://github.com/dpkp/kafka-python)** <span>2021.02</span>
 **Python client for Apache Kafka**  
