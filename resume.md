@@ -15,7 +15,7 @@ LinkedIn: <https://www.linkedin.com/in/dongwook-chang-3ab763147>
 
 ### **[Sogang Univ.](https://wwwe.sogang.ac.kr/wwwe/index_new.html)** <span>2013.02&ndash;2020.02</span>
 
-B.B.A. Business Administration  
+B.B.A. Business Administration  f
 B.Eng. in Computer Science and Engineering  
 GPA: 4.0/4.5 (cum laude)
 ## Honors
@@ -41,8 +41,8 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - [17th MAGNUM](https://www.globalsecurity.org/military/facility/cheongju.htm): Interpreted for military officers and translated USAF technical order  
     - '15 [UFG](https://en.wikipedia.org/wiki/Ulchi-Freedom_Guardian): Translated documents for Computer Assisted eXercise  
     - '15 [CISM](https://en.wikipedia.org/wiki/Military_World_Games): Interpreted for Egyptian athletes   
-    - F35 Augmentation TF: Translated manual for Lockheed Martin information system  
-    - Safety Manual TF: Translated safety manual for hazardous chemicals  
+    - F35 Augmentation TF: Translated manuals for Lockheed Martin information system  
+    - Safety Manual TF: Translated safety manuals for hazardous chemicals  
 <br>
 ### **[TmaxTibero](http://www.tmaxsoft.com/products/tibero/)** <span>2020.03&ndash;2020.06</span>
 **Researcher** developing/designing parser/psm of Tibero, enterprise RDBMS  
