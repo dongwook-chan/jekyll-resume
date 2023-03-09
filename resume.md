@@ -28,9 +28,9 @@ GPA: 4.0/4.5 (Cum laude)
 
 Awarded to top 50 student in Sogang business school.
 
-### **Inbon Scholarship**
+### **[Inbon Scholarship](http://www.sogang.ac.kr/bachelor/students/notice/notice08.html)**
 
-Full scholarship awarded biannually to 1 student who is exceptionally promising and has excellent academic performance 
+Full scholarship awarded biannually to 1 student who is exceptionally promising and has excellent academic performance  
 
 ### **[Beta Gamma Sigma](https://www.betagammasigma.org/about/what-is-bgs)**
 
@@ -39,7 +39,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 
 ## Extracurricular Activities
 
-### **[Startup club Black Box](https://www.facebook.com/iblackbox/)**
+### **Startup club [Black Box](https://www.facebook.com/iblackbox/)**
 
 <span>2013.03&ndash;2015.01</span>
 
@@ -57,7 +57,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 **Interpreter** at Republic Of Korea Air Force  
     - [17th MAGNUM](https://www.globalsecurity.org/military/facility/cheongju.htm): Interpreted for military officers and translated USAF technical order  
     - '15 [UFG](https://en.wikipedia.org/wiki/Ulchi-Freedom_Guardian): Translated documents for Computer Assisted eXercise  
-    - '15 [CISM](https://en.wikipedia.org/wiki/Military_World_Games): Interpreted for Egyptian athletes   
+    - '15 [CISM](https://www.milsport.one/cism/what-is-cism): Interpreted for Egyptian athletes  
     - F35 Augmentation TF: Translated manuals for Lockheed Martin information system  
 <br>
 
@@ -86,29 +86,25 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 
 **Software Engineer** developed database replication([LOMIO](https://elseif.kakao.com/2020/session/99)) and database importation(DAVINCI, MIMEO) solutions  
 <br>
-**[LOMIO] Developed LOMIO, real-time CDC solution**
-<font size="2">Python, MySQL, Kafka</font>  
+**[LOMIO] Developed LOMIO, real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture) solution** <font size="2">Python, MySQL, Kafka</font>  
     - Improved auto-reconnect feature in case of failure  
     - Optimized event queue to maximize thruput  
     - Adopted Docker for efficient deployment  
     - Customer specific features to process data  
     - Maintained patch files  
 <br>
-**[LOMIO] MySQL library development**
-<font size="2">Python, MySQL</font>  
+**[LOMIO] MySQL library development** <font size="2">Python, MySQL</font>  
     - Analyzed MySQL source code and analyzed event packet to fix event parsing error  
     - Modified library for timezone awareness, data type conversion  
     - Added profiling and set session variables to minimize source overhead  
 <br>
-**[LOMIO] Refactored & switched to Go**
-<font size="2">Python, Go, MySQL, kafka</font>  
+**[LOMIO] Refactored & switched to Go** <font size="2">Python, Go, MySQL, kafka</font>  
     - Improved functional cohesion for efficient maintenance  
     - Unified multiple repos to minimize code maintenance  
     - Decouple from MySQL client library to flexibly support other source RDBMSs  
     - Support postgresql as source  
 <br>
-**[DAVINCI] Developed large-file-to-RDBMS importation tool**
-<font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
+**[DAVINCI] Developed large-file-to-RDBMS importation tool** <font size="2">Python, Flask, jQuery, MySQL, PostgreSQL</font>  
     - Developed SPA Web interface for file input, preview, column mapping etc.  
     - Utilized multithreading/multiprocessing to boost upload performance  
     - Set system/table-level attributes to optimize load performance  
@@ -122,26 +118,22 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 ### **Kakao**
 
 <span>2022.06&ndash;</span>  
-**Software Engineer** developed serving pipeline for vSLAM and [CMS](https://elseif.kakao.com/2020/session/95) for street view images  
+**Software Engineer** developed serving pipeline for vSLAM and [CMS](https://elseif.kakao.com/2020/session/95) for street view   
 <br>
-**[vSLAM] Served vSLAM model**  
-<font size="2">Python, Flask</font>  
+**[vSLAM] Served vSLAM model** <font size="2">Python, Flask</font>  
     - Designed feature storage  
     - Adopted queue to create pipeline for preprocessing and inference  
-    - Adopted server side session to store client-specific parameters  
+    - Adopted server-side session to store client-specific parameters  
     - Adopted Black code formatter  
 <br>
-**[CMS] Developed API and admin dashboard**  
-<font size="2">Java, Spring, MySQL, PostgreSQL</font>  
+**[CMS] Developed API and admin dashboard** <font size="2">Java, Spring, MySQL, PostgreSQL</font>  
     - Developed API for MySQL/PostgreSQL query  
     - Optimized queries  
 <br> 
-**[CMS] Image Extractor**  
-<font size="2">Python</font>  
+**[CMS] Image Extractor** <font size="2">Python</font>  
     - Maintained application to sample image from video  
 <br>
-**Developed Chatbot**  
-<font size="2">Python, Flask</font>  
+**Developed Chatbot** <font size="2">Python, Flask</font>  
     - Automated repetitive query requests  
 <br>
 
@@ -155,23 +147,23 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Fixed features violating MySQL replication protocol  
     - Updated code to comply with latest protocol  
     - developed requested features & community support  
-    - Top 6 active contributor
-
+    - Top 6 active contributor  
+<br>
 ### **[kafka-python](https://github.com/dpkp/kafka-python)**
 
 <span>2021.02</span>
 
 **Python client for Apache Kafka**  
-    - Fixed documentation on Kafka producer config
-
+    - Fixed documentation on Kafka producer config  
+<br>
 ### **[mysql-server](https://github.com/mysql/mysql-server)**
 
 <span>2021.10</span>
 
 **The world's most popular open source database**  
     - Updated outdated system variable list  
-    - Updated and fixed MySQL Documentation
-
+    - Updated and fixed MySQL Documentation  
+<br>
 ## Certifications
 
 ### **Industrial Engineer Information Processing**
