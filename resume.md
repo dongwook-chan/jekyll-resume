@@ -54,7 +54,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 
 **Lead mentor for [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)**  
     - Led team of 24 mentees to contribute to python-mysql-replication  
-    - Gave lectures on the project and MySQL/MariaDB replication protocol
+    - Gave lectures on the project and MySQL/MariaDB replication protocol  
     - Fixed bugs, modernized repo and implemented feature requests  
 <br>
 
