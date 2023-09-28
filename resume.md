@@ -152,6 +152,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 
 <span>2023.08&ndash;</span>
 
+**A powerful mysql toolset with Go**  
     - Implemented visibility field in table map event for MySQL 8.0.23+  
 <br>
 ### **[python-mysql-replication](https://github.com/noplay/python-mysql-replication)**
