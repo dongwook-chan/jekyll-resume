@@ -49,7 +49,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Designed startup curriculum and volunteered at mid-semester hackathon  
 <br>
 
-### **Open Source Contribution Academy [Open Source Contribution Academy](https://www.contribution.ac)**
+### **[Open Source Contribution Academy](https://www.contribution.ac)**
 <span>2023.05&ndash;</span>
 
 **Lead mentor for [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)**  
