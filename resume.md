@@ -37,7 +37,7 @@ Full scholarship awarded biannually to 1 student who is exceptionally promising 
 Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergraduate students in a top 5% of business program accredited by [AACSB](https://www.betagammasigma.org/mainsitedev/about/affiliations/about-affiliations-aacsb?utm_source=Landing%20Page&utm_medium=Link&utm_campaign=BGS%20Branding&utm_content=AACSB)
 <br>
 
-## Extracurricular Activities
+## Activities
 
 ### **Startup club [Black Box](https://www.facebook.com/iblackbox/)**
 
@@ -47,6 +47,14 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - 3rd place in annual startup competition at Sogang univ.  
     - Gave lectures on marketing, invited speakers to motivate members  
     - Designed startup curriculum and volunteered at mid-semester hackathon  
+<br>
+
+### **Open Source Contribution Academy [Open Source Contribution Academy](https://www.contribution.ac)**
+<span>2023.05&ndash;</span>
+
+**Lead mentor for [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)**  
+- Led team of 24 mentees to contribute to python-mysql-replication
+- Fixed bugs, modernized repo and implemented feature requests.
 <br>
 
 ## Work Experience
@@ -132,6 +140,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 <br> 
 **[CMS] Image Extractor** <font size="2">Python</font>  
     - Maintained application to sample image from video  
+    - Clustered and mapped coordinates to administrative district using PostGIS  
 <br>
 **Developed Chatbot** <font size="2">Python, Flask</font>  
     - Automated repetitive query requests  
@@ -139,6 +148,12 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 
 ## Open Source Contribution
 
+### **[go-mysql](https://github.com/go-mysql-org/go-mysql)
+
+<span>2023.08&ndash;</span>
+
+    - Implemented visibility field in table map event for MySQL 8.0.23+  
+<br>
 ### **[python-mysql-replication](https://github.com/noplay/python-mysql-replication)**
 
 <span>2021.02&ndash;</span>
@@ -147,7 +162,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
     - Fixed features violating MySQL replication protocol  
     - Updated code to comply with latest protocol  
     - developed requested features & community support  
-    - Top 6 active contributor  
+    - Top 2 active contributor & collaborator  
 <br>
 ### **[kafka-python](https://github.com/dpkp/kafka-python)**
 
