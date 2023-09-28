@@ -148,7 +148,7 @@ Accepted as a lifetime member of Beta Gamma Sigma for being top 10% of undergrad
 
 ## Open Source Contribution
 
-### **[go-mysql](https://github.com/go-mysql-org/go-mysql)
+### **[go-mysql](https://github.com/go-mysql-org/go-mysql)**
 
 <span>2023.08&ndash;</span>
 
