@@ -99,54 +99,63 @@ DB 실시간 복제 솔루션 [LOMIO](https://elseif.kakao.com/2020/session/99) 
 주관: 정보통신진흥원  
 장소: 한국과학기술회관 국제회의장  
 주제: 
+<br>  
 
 ### 모두의연구소 LAB 활동 공유회 (예정) <span>2024.06.28</span>
 주관: [모두의연구소](https://modulabs.co.kr)  
 장소: 모두의연구소 강남 캠퍼스  
 주제: 
+<br>  
 
 ### [8th PseudoCon](https://padlet.com/seriousran/8th-pseudocon-jd610oafwcbk8evg) <span>2024.06.15</span>
 주관: [가짜연구소](https://pseudolab.github.io/about)  
 장소: Microsoft Korea  
 주제: 오픈소스 기여의 베네핏   
-YouTube: 업로드 예정  
+YouTube: 업로드 예정
+<br>  
 
 ### 고려대학교 컴퓨터프로그래밍2 특강 <span>2024.05.02</span>
 주관: [고려대학교](https://www.korea.ac.kr)  
 장소: 고려대학교 아산이학관  
 주제: 오픈소스와 진로  
 YouTube: https://www.youtube.com/watch?v=DvtHgUoA4m4
+<br>  
 
 ### [SUSC 멘토링](https://www.susc.kr/mentors) <span>2024.01.21</span>
 주관: [SUSC](https://www.susc.kr)  
 장소: 모두의연구소 강남 캠퍼스  
 주제: 오픈소스 기여하고 취업하기    
 YouTube: https://www.youtube.com/watch?v=Ab4dG7IJHbo
+<br>  
 
 ### [모두팝 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) <span>2023.11.22</span>
 주관: 모두의연구소  
 장소: 모두의연구소 강남 캠퍼스  
 주제: 오픈소스와 함께 성장하기   
 YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi
+<br>  
 
 ### [2023 일상에서의 AI 해커톤](https://pseudo-lab.github.io/huggingface-hackathon23/ko/) <span>2023.11.11</span>
 주관: [Hugging Face](https://huggingface.co), 가짜연구소  
 장소: 그랜드워커힐 컨벤션센터  
-주제: [Gradio Theme for Hugging Face Korea](https://huggingface.co/spaces/pseudolab/huggingface-korea-theme) 제작기  
+주제: [Gradio Theme for Hugging Face Korea](https://huggingface.co/spaces/pseudolab/huggingface-korea-theme) 제작기
+<br>  
 
 ### [Hacktoberfest Seoul](https://event-us.kr/hacktoberfestkorea/event/71998) <span>2023.10.16</span>
 주관: [Hacktoberfest Korea](https://hacktoberfestkorea.com)    
 장소: Open Up  
-주제: [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) 프로젝트와 이슈 소개  
+주제: [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) 프로젝트와 이슈 소개
+<br>  
 
 ### [데이터야놀자 2023](https://event-us.kr/datayanolja2020/event/71715?utm_source=referral&utm_medium=ilsub&utm_campaign=galmb80t03) <span>2023.10.14</span>
 주관: [데이터야놀자](https://datayanolja.kr)    
 장소: AWS Korea  
 주제: 데이터 복제 오픈소스 라이브러리와 함께 성장하기  
 YouTube: https://www.youtube.com/watch?v=3V1bah4DaBw
-![datayanolja](/assets/images/datayanolja.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![datayanolja](/assets/images/datayanolja.jpg)  
+<br>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+<br>  
 
 ### [수요지식회](https://www.youtube.com/playlist?list=PLlICBfqC1JMeueoYcaoP0wSl8RR2BL83u) <span>2023.10.14</span>
 주관: [42 서울](https://42seoul.kr)  
