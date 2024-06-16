@@ -161,7 +161,7 @@ YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi
 장소: AWS Korea  
 주제: 데이터 복제 오픈소스 라이브러리와 함께 성장하기  
 YouTube: https://www.youtube.com/watch?v=3V1bah4DaBw
-![datayanolja](/assets/images/datayanolja.jpg)  
+<img src="/assets/images/datayanolja.jpg" alt="Project Screenshot" style="width:300px;height:auto;"> 
 <br>  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <br>  
