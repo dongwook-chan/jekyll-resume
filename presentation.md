@@ -126,7 +126,7 @@ YouTube: 업로드 예정
 주관: [고려대학교](https://www.korea.ac.kr)  
 장소: 고려대학교 아산이학관  
 주제: 오픈소스와 진로  
-YouTube: https://www.youtube.com/watch?v=DvtHgUoA4m4  
+YouTube: [https://www.youtube.com/watch?v=DvtHgUoA4m4](https://www.youtube.com/watch?v=DvtHgUoA4m4)  
 <img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/ku.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
 <br>
 <br>
@@ -136,7 +136,7 @@ YouTube: https://www.youtube.com/watch?v=DvtHgUoA4m4
 주관: [SUSC](https://www.susc.kr)  
 장소: 모두의연구소 강남 캠퍼스  
 주제: 오픈소스 기여하고 취업하기    
-YouTube: https://www.youtube.com/watch?v=Ab4dG7IJHbo  
+YouTube: [https://www.youtube.com/watch?v=Ab4dG7IJHbo](https://www.youtube.com/watch?v=Ab4dG7IJHbo)  
 <img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/susc.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
 <br>
 <br>
@@ -145,8 +145,8 @@ YouTube: https://www.youtube.com/watch?v=Ab4dG7IJHbo
 
 주관: 모두의연구소  
 장소: 모두의연구소 강남 캠퍼스  
-주제: 방학동안 오픈소스 기여하기
-YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi  
+주제: 방학동안 오픈소스 기여하기  
+YouTube: [https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi](https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi)  
 <img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/modulabs.jpg" alt="Project Screenshot" style="width:200px;height:auto;">
 <br>
 <br>  
@@ -174,7 +174,7 @@ YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi
 주관: [데이터야놀자](https://datayanolja.kr)    
 장소: AWS Korea  
 주제: 데이터 복제 오픈소스 라이브러리와 함께 성장하기  
-YouTube: https://www.youtube.com/watch?v=3V1bah4DaBw
+YouTube: [https://www.youtube.com/watch?v=3V1bah4DaBw](https://www.youtube.com/watch?v=3V1bah4DaBw)
 <img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/datayanolja.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
 <br>
 <br>
