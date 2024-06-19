@@ -161,9 +161,18 @@ YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi
 장소: AWS Korea  
 주제: 데이터 복제 오픈소스 라이브러리와 함께 성장하기  
 YouTube: https://www.youtube.com/watch?v=3V1bah4DaBw
-<img src="/assets/images/datayanolja.jpg" alt="Project Screenshot" style="width:300px;height:auto;"> 
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/datayanolja.jpg" alt="Project Screenshot" style="width:300px;height:auto;"> 
 <br>  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+<style>
+.custom-iframe {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+}
+</style>
+<iframe class="custom-iframe" width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <br>  
 
 ### **[수요지식회](https://www.youtube.com/playlist?list=PLlICBfqC1JMeueoYcaoP0wSl8RR2BL83u)** <span>2023.10.14</span>
