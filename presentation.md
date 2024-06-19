@@ -127,7 +127,9 @@ YouTube: 업로드 예정
 장소: 고려대학교 아산이학관  
 주제: 오픈소스와 진로  
 YouTube: https://www.youtube.com/watch?v=DvtHgUoA4m4  
-<br>  
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/ku.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
+<br>
+<br>
 
 ### **[SUSC 멘토링](https://www.susc.kr/mentors)** <span>2024.01.21</span>
 
@@ -135,14 +137,18 @@ YouTube: https://www.youtube.com/watch?v=DvtHgUoA4m4
 장소: 모두의연구소 강남 캠퍼스  
 주제: 오픈소스 기여하고 취업하기    
 YouTube: https://www.youtube.com/watch?v=Ab4dG7IJHbo  
-<br>  
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/susc.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
+<br>
+<br>
 
 ### **[모두팝 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)** <span>2023.11.22</span>
 
 주관: 모두의연구소  
 장소: 모두의연구소 강남 캠퍼스  
-주제: 오픈소스와 함께 성장하기   
+주제: 방학동안 오픈소스 기여하기
 YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi  
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/modulabs.jpg" alt="Project Screenshot" style="width:200px;height:auto;">
+<br>
 <br>  
 
 ### **[2023 일상에서의 AI 해커톤](https://pseudo-lab.github.io/huggingface-hackathon23/ko/)** <span>2023.11.11</span>
@@ -150,13 +156,17 @@ YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi
 주관: [Hugging Face](https://huggingface.co), 가짜연구소  
 장소: 그랜드워커힐 컨벤션센터  
 주제: [Gradio Theme for Hugging Face Korea](https://huggingface.co/spaces/pseudolab/huggingface-korea-theme) 제작기  
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/hugging_face_korea.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
+<br>
 <br>  
 
 ### **[Hacktoberfest Seoul](https://event-us.kr/hacktoberfestkorea/event/71998)** <span>2023.10.16</span>
 
 주관: [Hacktoberfest Korea](https://hacktoberfestkorea.com)    
 장소: Open Up  
-주제: [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) 프로젝트와 이슈 소개  
+주제: [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) 프로젝트와 이슈 소개
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/hacktoberfest_seoul.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
+<br>
 <br>  
 
 ### **[데이터야놀자 2023](https://event-us.kr/datayanolja2020/event/71715?utm_source=referral&utm_medium=ilsub&utm_campaign=galmb80t03)** <span>2023.10.14</span>
@@ -169,10 +179,11 @@ YouTube: https://www.youtube.com/watch?v=3V1bah4DaBw
 <br>
 <br>
 
-
 ### **[수요지식회](https://www.youtube.com/playlist?list=PLlICBfqC1JMeueoYcaoP0wSl8RR2BL83u)** <span>2023.10.14</span>
 
 주관: [42 서울](https://42seoul.kr)  
 장소: 42 서울  
 주제: python-mysql-replication 오픈소스 컨트리뷰터로 거듭나기  
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/42seoul.jpg" alt="Project Screenshot" style="width:500px;height:auto;">
+<br>
 <br>
