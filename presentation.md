@@ -163,26 +163,11 @@ YouTube: https://youtu.be/PcLSahVmBlI?si=oaSDToz2d3iw15bi
 YouTube: https://www.youtube.com/watch?v=3V1bah4DaBw
  
 <br>  
+<img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/datayanolja.jpg" alt="Project Screenshot" style="width:300px;height:auto;">
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<iframe width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
-<div class="content-wrapper">
-  <img src="https://github.com/dongwook-chan/resumes/raw/main/assets/images/datayanolja.jpg" alt="Project Screenshot" style="width:300px;height:auto;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3V1bah4DaBw?si=c86eSPYQJB9hqHmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<br>  
-<style>
-.content-wrapper {
-    display: block;
-    text-align: left;
-    width: 100%;
-}
-
-.content-wrapper img, .content-wrapper iframe {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
-</style>
 
 ### **[수요지식회](https://www.youtube.com/playlist?list=PLlICBfqC1JMeueoYcaoP0wSl8RR2BL83u)** <span>2023.10.14</span>
 
