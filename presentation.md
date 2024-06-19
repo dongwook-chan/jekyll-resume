@@ -48,7 +48,8 @@ CGPA: 4.0/4.5 (Cum laude)
 ### **[오픈소스 컨트리뷰션 아카데미](https://www.contribution.ac)** <span>2023.05&ndash;2023.12</span>
 
 **[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) 프로젝트의 리드 멘토**  
-정보통신진흥원의 지원을 받아 20명의 멘티들을 오픈소스 컨트리뷰터로 성장시킴  
+정보통신진흥원의 지원을 받아 20명의 멘티들을 오픈소스 컨트리뷰터로 성장시킴    
+<br>
 
 ### **[오픈 프런티어](https://www.oss.kr/notice/show/d4821cc8-b80e-4112-80ba-a6e4708f2f34)** <span>2024.05&ndash;</span>
 
